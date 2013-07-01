@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "to_koike_kazuo"
   spec.version       = ToKoikeKazuo::VERSION
   spec.authors       = ["masayuki_oguni"]
-  spec.email         = ["masayuki_oguni@dwango.co.jp"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.email         = ["masayuki_oguni.dev@gmail.com"]
+  spec.description   = %q{to_koile_kazuo}
+  spec.summary       = %q{to_koike_kazuo}
   spec.homepage      = ""
   spec.license       = "MIT"
 
